@@ -1,0 +1,3 @@
+GIT
+
+Git is a free and open-source, distributed version control system designed to handle projects of all sizes with speed and efficiency. It was originally created by Linus Torvalds in 2005 for the development of the Linux kernel. 
