@@ -1,0 +1,39 @@
+
+
+### 🧩 **Basic Git Commands**
+
+* **`git init`** – Create a new Git repository.
+* **`git clone <url>`** – Copy a remote repository to your computer.
+* **`git status`** – Check the status of files (changed or not).
+* **`git add <file>`** – Add a file to the staging area.
+* **`git add .`** – Add all files to the staging area.
+* **`git commit -m "message"`** – Save changes with a short message.
+* **`git log`** – Show the history of commits.
+* **`git diff`** – Show changes made in files.
+
+ 🌿 **Branching**
+
+git branch – Show all branches.
+git branch <name> – Create a new branch.
+git checkout <name> – Switch to another branch.
+git merge <name> – Combine another branch with the current one.
+
+---
+
+### 🌐 **Remote Repository**
+
+* **`git remote add origin <url>`** – Link your local repo to GitHub (remote).
+* **`git push -u origin main`** – Upload your code to the main branch.
+* **`git pull`** – Get updates from the remote repository.
+
+---
+
+### ⚙️ **Undo Changes**
+
+* **`git reset <file>`** – Remove a file from the staging area.
+* **`git checkout -- <file>`** – Undo changes in a file.
+* **`git revert <commit>`** – Undo a commit safely.
+
+---
+
+
